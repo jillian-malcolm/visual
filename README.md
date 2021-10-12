@@ -34,7 +34,14 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-![marge with the pearl earring](https://user-images.githubusercontent.com/90698788/136998554-ebb1031f-f39a-4457-a26a-dbcb0646e306.jpeg)
+       
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
+20th century after the earring worn by the girl portrayed there.[^1] 
+       label="Marge with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url=(https://user-images.githubusercontent.com/90698788/136998554-ebb1031f-f39a-4457-a26a-dbcb0646e306.jpeg)
 
 ## Map
 
