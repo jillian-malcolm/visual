@@ -47,7 +47,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
-[Proposal.pdf](https://github.com/jillian-malcolm/visual/files/7331854/Proposal.pdf)
 
 
 # References
