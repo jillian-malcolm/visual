@@ -15,6 +15,8 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
+![marge with the pearl earring](https://user-images.githubusercontent.com/90698788/136998554-ebb1031f-f39a-4457-a26a-dbcb0646e306.jpeg)
+
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
